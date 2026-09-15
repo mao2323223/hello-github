@@ -2,11 +2,13 @@
 
 This is my first GitHub repository.
 
+Last maintained: 2026-09-15
+
 ## What this repo is for
 
 - Practicing commits, branches, and pull requests
 - Learning how GitHub repositories are organized
-- Keeping small notes and experiments
+- Keeping this account active with small, real updates
 
 ## Next steps
 
